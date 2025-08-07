@@ -2,6 +2,8 @@
 
 A clean, elegant, and typography-focused WordPress theme built for simplicity and readability. Inspired by modern minimalist design principles, this theme strips away unnecessary elements to let your content shine.
 
+![Minimalist WordPress Theme Screenshot](images/screenshot.jpg)
+
 ## ✨ Features
 
 - **Ultra-clean design** with generous white space
